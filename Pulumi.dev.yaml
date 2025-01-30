@@ -1,0 +1,4 @@
+config:
+  aws:region: eu-north-1
+secretsprovider: awskms://alias/moped-stack-encryption-key-b3da55e?region=eu-north-1
+encryptedkey: AQICAHipptrZ6iwT17c9ae6xbsZNVO3lRdqYgG3TR66rbUSgxAG9HrA802W/cWD6Oe2fWo+nAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMMjjBZvwUaqMInn5+AgEQgDstcTNWbnw85vE4/ra62UAG/YAsDNm4OKFvimEoYxV/QIZ9YsCZAOP6ECiWlyqJBsZvS4nIkw0pP78IXg==
